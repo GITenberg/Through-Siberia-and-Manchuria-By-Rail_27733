@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '31985'
     url: http://www.gutenberg.org/2009/agents/31985
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27733#Through-Siberia-and-Manchuria-By-Rail
 gutenberg_issued: '2009-01-07'
 gutenberg_type: Text
 identifiers:
